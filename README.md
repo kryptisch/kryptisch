@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kryptisch&label=Profile%20views&color=0e75b6&style=flat" alt="kryptisch" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kryptisch" alt="kryptisch" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kryptisch&margin-w=20&title=Joined2020,Commits,Repositories,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 - 🔭 I’m currently working on [My Portfolio](https://rohithdigajerla.vercel.app/)
 
 - 🌱 I’m currently learning **AWS,React**
